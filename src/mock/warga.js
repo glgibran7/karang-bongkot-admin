@@ -1,0 +1,26 @@
+export const warga = [
+  {
+    id: 1,
+    nik: "5201010101010001",
+    nama: "Ahmad Fauzi",
+    jk: "L",
+    usia: 35,
+    pekerjaan: "Petani",
+    dusun: "Karang Bongkot",
+    rt: "001",
+    rw: "001",
+    status: "Aktif",
+  },
+  {
+    id: 2,
+    nik: "5201010101010002",
+    nama: "Siti Aminah",
+    jk: "P",
+    usia: 29,
+    pekerjaan: "Guru",
+    dusun: "Karang Bongkot",
+    rt: "001",
+    rw: "001",
+    status: "Aktif",
+  },
+];
