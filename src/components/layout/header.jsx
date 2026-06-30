@@ -33,7 +33,7 @@ export default function Header() {
         </button>
 
         {/* Search */}
-        <div className="relative hidden sm:block">
+        {/* <div className="relative hidden sm:block">
           <Search
             size={18}
             className="absolute left-3 top-1/2 -translate-y-1/2 text-muted-foreground"
@@ -55,7 +55,7 @@ export default function Header() {
               focus:ring-primary
             "
           />
-        </div>
+        </div> */}
       </div>
 
       {/* Right side */}
